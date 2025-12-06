@@ -36,10 +36,3 @@ Key insights from the analysis:
 These insights can help dealerships make more informed decisions about which vehicles retain value and how to structure their inventory.
 
 ---
-
-## Project Structure
-
-```text
-├── prompt_II.ipynb                    # Main analysis notebook (CRISP DM)
-├── practical_application_2_report.pdf # Final written summary
-├── README.md                          # Project overview and findings
