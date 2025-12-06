@@ -14,10 +14,7 @@ A used car dealership wants to understand why certain vehicles sell for more tha
 
 You can view the full Jupyter notebook here:
 
-[*prompt_II_nicolini_v1.ipynb
-
-(https://github.com/your-username/What-Drives-the-Price-of-a-Car/blob/main/prompt_II_nicolini_v1.ipynb
-)
+prompt_II_nicolini_v1.ipynb
 
 ---
 
