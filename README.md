@@ -1,26 +1,26 @@
-# 🧠 Used Car Price Analysis — Practical Assignment 11.1
+# Used Car Price Analysis — Practical Assignment 11.1
 
 This repository contains my implementation of **"What Drives the Price of a Car?"**, following the **CRISP-DM** data science framework. The goal of the project is to determine which vehicle attributes most influence used car prices and to provide insights that help dealerships fine tune inventory decisions.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 A used car dealership wants to understand why certain vehicles sell for more than others. Using a dataset of about 426,000 used cars, I examined relationships between price and key features such as mileage, condition, year, manufacturer, and fuel type. The project includes data understanding, preparation, modeling, and interpretation of results.
 
 ---
 
-## 🔗 Notebook
+## Notebook
 
 You can view the full Jupyter notebook here:
 
-👉 **[View the notebook](INSERT_LINK_TO_NOTEBOOK_HERE)**  
+**[View the notebook](INSERT_LINK_TO_NOTEBOOK_HERE)**  
 
 (Replace `INSERT_LINK_TO_NOTEBOOK_HERE` with the URL to your `.ipynb` file in this repository.)
 
 ---
 
-## 📊 Summary of Findings
+## Summary of Findings
 
 Key insights from the analysis:
 
@@ -37,7 +37,7 @@ These insights can help dealerships make more informed decisions about which veh
 
 ---
 
-## 🧰 Project Structure
+## Project Structure
 
 ```text
 ├── prompt_II.ipynb                    # Main analysis notebook (CRISP DM)
