@@ -14,7 +14,7 @@ A used car dealership wants to understand why certain vehicles sell for more tha
 
 You can view the full Jupyter notebook here:
 
-**[View the notebook](INSERT_LINK_TO_NOTEBOOK_HERE)**  
+*prompt_II_nicolini_v1.ipynb
 
 (Replace `INSERT_LINK_TO_NOTEBOOK_HERE` with the URL to your `.ipynb` file in this repository.)
 
